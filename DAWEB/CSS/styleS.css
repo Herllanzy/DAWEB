@@ -1,0 +1,30 @@
+table {
+        background-color: lavender;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        border-style: dotted;
+        border-width: 3px;
+        border-color: blue;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.corpo {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+}
+
+.Title1 {
+    text-align: center;
+    margin-bottom:3px ;
+}
+
+.Title2 {
+    text-align: center;
+    margin-bottom:3px ;
+}
